@@ -1,0 +1,35 @@
+.contantop{
+          position: relative;
+          top: 200px;
+          
+          
+}
+
+.contaner p {
+          color: #f6f4e6;
+          text-decoration: none;
+          text-align: center;
+          font-size: 1em;
+          text-transform: uppercase;
+          font-weight: 500;
+          display: table-cell;
+          padding: 15px;
+          left: 300px;
+          -webkit-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+          position: relative;
+          
+        }
+        .contancard{
+          
+          height: 60vh;
+          width: 60vw;
+          max-height: 800px;
+          max-width: 1280px;
+          min-height: 600px;
+          min-width: 1000px;
+          display: flex;
+          justify-content: space-around;
+          align-items: center;
+          margin: 0 auto;
+        }

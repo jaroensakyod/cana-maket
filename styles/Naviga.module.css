@@ -1,0 +1,51 @@
+.logo {
+          height: 1em;
+          margin-left: 0.5rem;
+        }
+
+.logocarshop {
+          height: 1em;
+          margin-left: 0.5rem;
+          color: #f6f4e6;
+          text-decoration: none;
+          font-size: 1.2em;
+          text-transform: uppercase;
+          font-weight: 500;
+          width: 80px;
+          left: 85%;
+          position: relative;
+        }
+.shop {
+          margin: 4;
+          line-height: 1.15;
+          font-size: 1rem;
+          
+}
+
+.centerbox{
+          position: center;
+}
+
+.navMenu{
+          position: absolute;
+          left: 38%;
+          top: 50px;
+
+}
+
+.navMenu a {
+          color: #f6f4e6;
+          text-decoration: none;
+          font-size: 1.2em;
+          text-transform: uppercase;
+          font-weight: 500;
+          display: table-cell;
+          padding: 15px;
+          -webkit-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+        }
+        
+        .navMenu a:hover {
+          color: #0e6d0e;
+        }
+        
